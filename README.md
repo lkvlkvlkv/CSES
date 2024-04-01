@@ -12,10 +12,10 @@
 | Number Spiral | ✅ |
 | Two Knights | ✅ |
 | Two Sets | ✅ |
-| Bit Strings | ❌ |
-| Trailing Zeros | ❌ |
-| Coin Piles | ❌ |
-| Palindrome Reorder | ❌ |
+| Bit Strings | ✅ |
+| Trailing Zeros | ✅ |
+| Coin Piles | ✅ |
+| Palindrome Reorder | ✅ |
 | Gray Code | ❌ |
 | Tower of Hanoi | ❌ |
 | Creating Strings | ❌ |
