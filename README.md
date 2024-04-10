@@ -16,10 +16,10 @@
 | Trailing Zeros | ✅ |
 | Coin Piles | ✅ |
 | Palindrome Reorder | ✅ |
-| Gray Code | ❌ |
-| Tower of Hanoi | ❌ |
-| Creating Strings | ❌ |
-| Apple Division | ❌ |
+| Gray Code | ✅ |
+| Tower of Hanoi | ✅ |
+| Creating Strings | ✅ |
+| Apple Division | ✅ |
 | Chessboard and Queens | ❌ |
 | Digit Queries | ❌ |
 | Grid Paths | ❌ |
